@@ -1,0 +1,16 @@
+# this is for Yifei's local machine (Thinkpad)
+.libPaths(new = 'C:/Users/Yifei/R/win-library/4.0')
+.libPaths(new = 'C:/Program Files/R/R-4.0.3/library')
+
+# keep updated with new versions of R
+.libPaths(new = "~/R/ubuntu_18.04/4.0.2")
+
+source(file.path(Sys.getenv(
+  if (.Platform$OS.type == "windows") "USERPROFILE" else "HOME"),
+  ".vscode-R", "init.R")
+)
+
+# auto match brackets and quotes
+options(radian.auto_match = FALSE)
+
+cat("\nThis is the last line of .radian_profile. Set radian.auto_match to FALSE!\n")

@@ -1,0 +1,291 @@
+﻿ID,Condition,Condition_888_TEXT,Time,Home_W,PQM__1,PQM__2,PQM__3,PQM__4,PQM__5,PQM__6,PANAS__1,PANAS__2,PANAS__3,PANAS__4,PANAS__5,PANAS__6,PANAS__7,PANAS__8,Qual_W,PQM__4_r,PQM__5_r,PQM__6_r,PQM,PANAS_Pos,PANAS_Neg
+135,0, ,201,3, , , , , , ,3,1,3,4,3,3,4,4, , , , , ,3.5,2.75
+132,0, ,201,3, , , , , , ,3,1,4,1,4,3,4,4, , , , , ,4,2
+123,0, ,201,3, , , , , , ,2,2,3,1,2,2,4,3, , , , , ,3,1.75
+114,0, ,201,3, , , , , , ,2,1,5,2,4,3,5,3, , , , , ,4.25,2
+126,0, ,201,1, , , , , , ,2,1,4,2,3,2,4,4, , , , , ,3.75,1.75
+142,0, ,201,1, , , , , , ,4,3,3,2,4,2,4,2, , , , , ,3.25,2.75
+103,0, ,201,7, , , , , , ,1,1,3,1,2,1,3,3, , , , , ,2.75,1
+116,0, ,201,0, , , , , , ,3,3,3,3,3,4,5,3, , , , , ,3.5,3.25
+112,0, ,201,7, , , , , , ,3,2,4,1,5,2,5,4, , , , , ,4.5,2
+113,0, ,201, , , , , , , , , , , , , , , , , , , , , , 
+119,0, ,201, , , , , , , , , , , , , , , , , , , , , , 
+130,0, ,100,7, , , , , , ,1,1,1,1,1,5,5,5, , , , , ,3,2
+131,0, ,100,5, , , , , , ,1,1,4,1,2,2,3,4, , , , , ,3.25,1.25
+127,0, ,100,7, , , , , , ,1,1,3,1,3,2,5,4, , , , , ,3.75,1.25
+146,0, ,100,3, , , , , , ,2,1,3,1,3,3,3,3, , , , , ,3,1.75
+109,0, ,100,1, , , , , , ,2,2,4,5,1,5,2,2, , , , , ,2.25,3.5
+134,0, ,100,7, , , , , , ,2,1,4,1,4,1,5,4, , , , , ,4.25,1.25
+118,0, ,100,4, , , , , , ,3,1,4,2,4,2,5,5, , , , , ,4.5,2
+104,0, ,100,2, , , , , , ,2,2,1,1,3,1,4,2, , , , , ,2.5,1.5
+123,0, ,100,0, , , , , , ,1,1,4,2,5,1,5,2, , , , , ,4,1.25
+141,0, ,100,8, , , , , , ,5,1,5,1,2,4,4,5, , , , , ,4,2.75
+102,0, ,100,8, , , , , , ,2,1,3,1,2,1,4,3, , , , , ,3,1.25
+133,0, ,100,7, , , , , , ,2,2,3,1,4,3,5,4, , , , , ,4,2
+144,0, ,100,7, , , , , , ,2,1,2,1,2,3,2,2, , , , , ,2,1.75
+115,0, ,100,7, , , , , , ,1,1,5,1,3,2,5,3, , , , , ,4,1.25
+143,0, ,100,1, , , , , , ,1,2,3,1,2,1,1,2, , , , , ,2,1.25
+148,0, ,100,4, , , , , , ,1,1,1,1,5,2,5,1, , , , , ,3,1.25
+135,0, ,100,0, , , , , , ,4,2,1,3,1,2,1,1, , , , , ,1,2.75
+103,0, ,100,7, , , , , , ,2,1,1,1,2,2,4,3, , , , , ,2.5,1.5
+145,0, ,100,2, , , , , , ,2,1,4,1,4,1,4,4, , , , , ,4,1.25
+135,0, ,300,0, , , , , , ,4,2,3,4,1,4,1,2, , , , , ,1.75,3.5
+135,0, ,301,1, , , , , , ,3,1,3,3,2,3,2,3, , , , , ,2.5,2.5
+110,1, ,201,1,30,30,40,30,0,0,2,1,3,2,4,2,4,4,THANK YOU!,70,100,100,61.66666667,3.75,1.75
+105,1, ,201,7,100,100,100,0,0,0,2,1,5,1,4,1,5,5,"It was absolutely wonderful Amy! Thank you so much! It was amazing to be able to have an experience with Zoom that I truly enjoyed, and reconnect with everyone, feeling like it was almost the same as being together in person. We got to rather do it in the comfort of our home which was nice as well. Stay healthy and well!",100,100,100,100,4.75,1.25
+149,1, ,201,0,80,77,0,86,71,84,1,1,4,1,4,2,5,4,Hard for me to focus from home with toddler in the next room (squealing).,14,29,16,36,4.25,1.25
+105,1, ,202,7,100,100,100,0,0,0,1,1,4,1,5,1,5,5,It was perfect! Thank you so much! So very grateful to be able to still see you each week once again!,100,100,100,100,4.75,1
+105,1, ,203,7,100,100,100,0,0,0,1,1,4,1,5,1,5,5,It was great! Thank You!☺️,100,100,100,100,4.75,1
+125,1, ,201,3,61,71,84,61,60,77,3,2,4,2,4,2,4,4,"I'm working on letting things go, letting others do for themselves and letting go of the responsibility of doing for others.",39,40,23,53,4,2.25
+105,1, ,204,7,100,100,100,0,0,0,1,1,4,1,5,1,5,4,It was wonderful! Thank You!☺️,100,100,100,100,4.5,1
+125,1, ,202,2,39,40,57,58,58,72,4,4,4,1,4,3,4,4, ,42,42,28,41.33333333,4,3
+105,1, ,205,3,100,100,100,0,0,0,2,1,2,1,3,1,3,2,"Thank You So Much Amy! This was the highlight of my week, and has drawn me even further into my desire to further explore Yoga, Meditation, and things involving Ayurveda as a way during this very difficult week of physical pain and not feeling well, to attempt to use these practices to help support myself during times of illness as well.☺️❤️",100,100,100,100,2.5,1.25
+110,1, ,202,3,60,52,53,60,20,53,3,1,3,1,3,4,4,3, ,40,80,47,55.33333333,3.25,2.25
+149,1, ,202,0,80,80,90,30,60,70,1,1,3,1,4,3,2,4,Thank you!!!,70,40,30,65,3.25,1.5
+149,1, ,203,1,80,80,80,60,61,90,2,1,3,1,3,2,4,4,Thank you so much for having this. Also for letting us deviate sometimes.,40,39,10,54.83333333,3.5,1.5
+105,1, ,206,7,100,100,100,0,0,0,2,1,5,1,5,1,5,5,It was wonderful as always. Thank You Amy!,100,100,100,100,5,1.25
+125,1, ,203,3,29,29,67,60,85,86,4,2,4,2,4,3,4,4,"I can see that I need to practice more so that I don't have to struggle so hard to focus on breath and body and to quiet mind. As a musician, I understand the benefits of practice.",40,15,14,32.33333333,4,2.75
+149,1, ,204,1,91,92,91,51,60,59,2,2,4,1,4,2,4,4,Thank you!  You rock! :),49,40,41,67.33333333,4,1.75
+125,1, ,204,5,40,72,72,13,14,72,2,2,4,1,4,2,4,4,"I've been struggling with sleep for quite a while, but taking a class this week brought attention to how important it is to truly recognize and embrace my struggle and do something about it. The center of the class was the book ""Why we Sleep"" by Matthew Walker which has been on my reading list, but now needs to float to the top.",87,86,28,64.16666667,4,1.75
+105,1, ,207,7,100,100,100,0,0,0,2,1,4,1,5,1,5,4,Wonderful as always Amy! Thank You so much!,100,100,100,100,4.5,1.25
+125,1, ,205,2,19,19,88,18,5,12,2,1,4,1,4,2,4,4,Focusing on fixing sleep - esp. working on consistency of going to bed and awaking and being mindful of screen time. And I've been taking moments to play the piano - this relaxes me and tunes my mind. Its not the same as full-on practicing. It's just taking a few minutes to play music and feel the physical connections.,82,95,88,65.16666667,4,1.5
+105,1, ,208,7,100,100,100,0,0,0,2,1,4,1,5,1,5,4,Thanks again Amy! Always amazing!😀,100,100,100,100,4.5,1.25
+105,1, ,209,7,100,100,100,0,0,0,3,1,4,1,5,1,5,5,Thanks! Lovely as always!,100,100,100,100,4.75,1.5
+105,1, ,210,7,100,100,100,0,0,0,2,1,4,1,5,1,5,4,Thank You Again Amy! Thanks for offering the extra classes as well! I’m excited!,100,100,100,100,4.5,1.25
+125,1, ,206,1,20,70,95,2,9,68,3,2,4,2,4,2,4,4,I love this gentle practice that Amy guides and shares.,98,91,32,67.66666667,4,2.25
+125,1, ,207,2,71,72,89,7,25,61,4,2,4,3,4,3,4,4, ,93,75,39,73.16666667,4,3
+105,1, ,211,7,100,100,100,0,0,0,2,1,2,1,4,1,4,3,Thanks Again Amy! It was lovely!,100,100,100,100,3.25,1.25
+125,1, ,208,3,82,82,83,7,8,60,1,1,4,1,4,3,4,4,I especially love the color meditation.,93,92,40,78.66666667,4,1.5
+105,1, ,212,7,100,100,100,0,0,0,1,1,4,1,5,1,5,5,Thanks Amy! Always a wonderful experience doing Yoga with you!,100,100,100,100,4.75,1
+125,1, ,209,2,71,72,89,57,43,43,3,1,4,1,3,4,4,4, ,43,57,57,64.83333333,3.75,2.25
+105,1, ,213,7,100,100,100,0,0,0,1,1,5,1,5,1,5,5,"Thank You So Much for the practice this morning, and all that you are continuing to offer to the community! I am so very grateful for you, and all of these additional classes you have been offering!",100,100,100,100,5,1
+105,1, ,214,7,100,100,100,0,0,0,1,1,5,1,5,1,5,5,"Thank You Amy for all that you do, and for sharing that poem with me as well! Love it!",100,100,100,100,5,1
+120,1, ,201,2,100,100,0,75,100,100,3,2,4,3,4,3,5,3, ,25,0,0,37.5,4,2.75
+125,1, ,210,7,77,87,84,18,27,46,1,1,4,1,4,4,5,4,"I feel completely supported during practice. I have been given particular ""Phase 1"" exercises to do and several of my required exercises are already included in our yoga practice. I have been adding yoga elements that I feel comfortable doing that I believe support the exercises, but always mindful of the limits these ""Phase 1"" exercises impose. I have my first in person OT/PT appointment on Tuesday. I am grateful to be back for weekly yoga!",82,73,54,76.16666667,4.25,1.75
+105,1, ,215,7,100,100,100,0,0,0,1,1,4,1,4,2,5,4,Thank you so much Amy for sharing your Yoga Practice with me today. Always lovely.,100,100,100,100,4.25,1.25
+125,1, ,211,6,29,83,95,7,6,68,2,1,4,1,4,3,4,4,"I found linking breathing with movements to be very supportive. As always, Amy's encouragements to adapt to what feels best makes the practice personally supportive.",93,94,32,71,4,1.75
+105,1, ,216,7,100,100,100,0,0,0,1,1,4,1,5,1,5,4,"Thank you Amy for today’s practice. It was interesting how my joints were hurting right before you said what you were going to do for today’s practice. Thank you so much for sharing the practice that you did today, it was very beneficial.",100,100,100,100,4.5,1
+125,1, ,212,5,30,81,88,13,13,70,1,1,4,1,3,2,4,3,I have exercises I'm doing in my post-surgery recovery that I can link yoga to and so I'm doing more and more yoga with my exercises.,87,87,30,67.16666667,3.5,1.25
+125,1, ,213,5,19,81,92,6,3,6,2,2,4,1,4,4,4,4, ,94,97,94,79.5,4,2.25
+105,1, ,217,7,100,100,100,0,0,0,1,1,4,1,5,1,4,4,Thank you so much for the lovely practice today! I loved it!,100,100,100,100,4.25,1
+108,1, ,201,1,76,76,79,82,0,24,2,1,4,1,3,3,3,4, ,18,100,76,70.83333333,3.5,1.75
+105,1, ,218,7,100,100,100,0,0,0,1,1,4,1,4,1,5,4,"Thank you again Amy for all you have done for me, our community, and beyond!",100,100,100,100,4.25,1
+125,1, ,214,7,71,72,97,3,4,61,1,1,4,1,4,2,4,4,I feel in tune with the changing season. It coincides with my transitioning to toward the next phase of my treatments. The changes feel right and timely.,97,96,39,78.66666667,4,1.25
+105,1, ,219,7,100,100,100,0,0,0,2,1,3,1,4,2,5,4,Thank you so much for all that you do! You have helped me more than I can even place into words. You are a true blessing!,100,100,100,100,4,1.5
+120,1, ,202,2,75,100,100,100,80,100,4,4,5,4,2,4,5,3,When I first pestered the court for us ladies (my peers) to have yoga I thought it was just going to be me and my peers and the yoga instructor only. Sidebar. I was in the hospital and I was asked by my team doctors if I wouldn’t mind another team to come and observe me. I granted it because that’s the type of person that I am. I said that to say that this is my time for myself. I would preferred not to be around anyone who has authority over me.  I would love everybody to be there male and female because Yoga is an excellent thing I’m finding out. But seriously I really wanted this to be just for the ladies who were in DWI Court to bond. They say this is anonymous but of course not today because I’m the only one who is actually a client of DWI Court who was in there today. For me I’m not getting the full relaxation because people in authority over me are in my space.  One last example. I get a massage every Thursday. To better explain the way I feel would be like someone from the courts showing up in my room while I’m getting my massage.  Thank you very much for the class or as I learn today for my practice. -dez,0,20,0,49.16666667,3.75,4
+105,1, ,220,7,100,100,100,0,0,0,1,1,4,1,4,1,4,4,"Thank you so much Amy for all of your love and support, and all that you have done for me. I feel so very grateful and blessed that we just happened to have crossed paths!",100,100,100,100,4,1
+120,1, ,203,2,100,100,100,20,100,100,3,1,5,2,5,4,5,5, ,80,0,0,63.33333333,5,2.5
+125,1, ,215,6,59,93,90,23,10,82,1,2,4,1,4,2,3,4,Linking breath and movement feels wonderful to me.,77,90,18,71.16666667,3.75,1.5
+105,1, ,221,7,100,100,100,0,0,0,1,1,4,1,5,1,5,4,Thank you so very much for all that you do! You are the best! I am so very very grateful for you!,100,100,100,100,4.5,1
+105,1, ,222,7,100,100,100,0,0,0,1,1,1,1,5,2,5,4,"I appreciate you so very much! Thank you for sharing yoga with me today, and taking the to share with me! Have a lovely weekend!",100,100,100,100,3.75,1.25
+120,1, ,204,3,100,80,100,75,100,100,2,1,3,1,5,2,5,5,I’m grateful for this time and I look forward to it weekly.,25,0,0,50.83333333,4.5,1.5
+125,1, ,216,1,81,81,82,36,9,73,4,2,4,1,3,4,3,4,"Following medical advice, I've consciously rested a lot this week. But I have also kept moving doing very gentle exercises and yoga this week. I have tried to stay positive. A head injury is scary - I don't see physical symptoms, but I know it is there and will take time to heal. Thank you for the very gentle practice today.",64,91,27,71,3.5,2.75
+105,1, ,223,7,100,100,100,0,0,0,1,1,4,1,5,1,5,4,"Thanks Amy for the practice today, and Happy Day Light Savings Weekend!",100,100,100,100,4.5,1
+120,1, ,205,3,0,0,0,100,100,33,2,1,5,1,4,5,5,3, ,0,0,67,11.16666667,4.25,2.25
+120,1, ,206,1,79,16,0,0,100,100,2,1,5,1,4,2,5,3, ,100,0,0,32.5,4.25,1.5
+125,1, ,217,6,82,82,95,7,7,57,1,1,3,1,3,2,3,4,"I have been practicing what I call ""brain-resets"" - throughout the day, I set a timer for 1 hour and every hour I try to rest for 10 minutes. I find that that slowing down feels good for my injured brain. Today's very relaxing practice was also a wonderful ""brain-reset"". Thank you.",93,93,43,81.33333333,3.25,1.25
+120,1, ,207,2,100,83,32,0,0,100,1,1,4,1,3,2,5,4,Today I really enjoyed my practice.,100,100,0,69.16666667,4,1.25
+125,1, ,218,6,90,91,91,3,10,25,2,1,4,1,4,2,4,5,Today's practice feels wonderful. I feel so reconnected head to toe.  thank you.,97,90,75,89,4.25,1.5
+105,1, ,224,7,100,100,100,0,0,0,1,1,4,1,5,1,5,4,"Thank you so much Amy for the practice this morning, and absolutely everything you have brought into my life!",100,100,100,100,4.5,1
+125,1, ,219,5,79,79,89,29,32,59,3,1,4,1,4,4,4,4,"As I prepare for a very different Thanksgiving experience with no family get-togethers, I will try to remember to ""go with the flow.""",71,68,41,71.16666667,4,2.25
+105,1, ,225,7,100,100,100,0,0,0,2,1,4,1,4,1,5,5,"Thank you Amy for this mornings practice! It was amazing, and it will be incredible for this evening! Thank you so much for all you are bringing to our community!",100,100,100,100,4.5,1.25
+125,1, ,220,6,72,92,92,26,38,41,2,1,4,1,4,4,4,4,I'm focusing on gratitude and care. I'm taking whatever care I must do to heal and feeling grateful that I have not had worse symptoms and that most days I feel well and am able to do most of what I want to do.,74,62,59,75.16666667,4,2
+125,1, ,221,5,82,83,84,10,10,55,2,1,4,1,4,2,4,4,"Amy always seem to know exactly what I need. Of course, it helps that she gives many options to help me find and use what I need best.",90,90,45,79,4,1.5
+105,1, ,226,7,100,100,100,0,0,0,2,1,3,1,4,1,4,4,"Thank you so much for the lovely yoga practice, as always!",100,100,100,100,3.75,1.25
+125,1, ,222,4,86,85,86,7,8,66,1,1,4,1,4,1,3,4,I am grateful for our time together. I hope everyone who is not feeling well feels better and stronger soon.,93,92,34,79.33333333,3.75,1
+120,1, ,208,1,8,85,23,89,84,92,4,2,5,1,3,4,5,3,I am under the weather so I’m not feeling my best but I’m glad I still participated because it truly helped me relax and right now I need a lot of relaxation in my life.,11,16,8,25.16666667,4,2.75
+120,1, ,209,1,84,78,0,88,90,85,4,4,5,5,1,4,1,1,That first question it asked for how many days but it was today but I was at yoga twice.,12,10,15,33.16666667,2,4.25
+120,1, ,210,1,100,100,100,28,100,100,1,1,5,1,5,2,5,5,Thank you very much for this practice because it open up my eyes that I definitely need this but I need to be present not just physically there.,72,0,0,62,5,1.25
+125,1, ,223,0,81,96,88,5,2,81,1,1,4,1,4,2,4,4,"I love the new questions! I will try the ""10 minutes mindfulness"" this week. Too often, I find myself trying to fill the time rather than taking the time.",95,98,19,79.5,4,1.25
+105,1, ,227,7,100,100,100,0,0,0,1,1,4,1,5,1,5,4,Thank You Amy! The practice was lovely! Good luck on your newest journey!,100,100,100,100,4.5,1
+120,1, ,211,2,50,50,9,100,100,78,1,2,5,2,4,1,5,4, ,0,0,22,21.83333333,4.5,1.5
+125,1, ,224,5,92,92,91,26,11,61,2,1,4,1,3,2,3,4, ,74,89,39,79.5,3.5,1.5
+125,1, ,225,5,92,90,90,5,5,56,2,1,4,2,4,2,4,4, ,95,95,44,84.33333333,4,1.75
+120,1, ,212,1,100,100,100,0,0,50,1,1,5,1,5,4,5,3,I was a bit nervous (OK a lot nervous LOL ) because the last couple of weeks regarding my job they’re having me speak.  Today I get to speak in front of approximately 150 organizations. Plus my manager in my peers. Thank you for your service with yoga and more importantly thank you for your service as a nurse I’m literally going to pray for you and the other medical field right now.,100,100,50,91.66666667,4.5,1.75
+125,1, ,226,3,85,85,86,6,5,32,1,1,4,1,3,2,4,4,The gentleness of today's practice was PERFECT and I like the cross-body connections.,94,95,68,85.5,3.75,1.25
+105,1, ,228,7,100,100,100,0,0,0,2,1,4,1,4,1,4,4,"Thank you for the practice Amy! I needed it even though I had to miss a part of it, it was still lovely!",100,100,100,100,4,1.25
+125,1, ,227,3,72,73,75,15,61,76,1,1,3,1,3,2,3,3,"My laptop froze while I was completing the survey this morning. Sorry for the delay. With Amy's guidance, today's practice provided just what I needed.  Thank you ---",85,39,24,61.33333333,3,1.25
+105,1, ,229,7,100,100,100,0,0,0,1,1,4,1,4,1,4,4,Thank you so much for the practice Amy! It was perfect and I have felt much better in my body since the practice!,100,100,100,100,4,1
+125,1, ,228,3,83,84,87,25,25,71,2,1,4,1,4,3,4,3,Amy guided exactly what I needed for my shoulders today. I love our group and change is not necessary for me. But maybe something different is needed to support the purposes of the DWI court women and that's the only reason I mentioned it today. It's something I've been thinking about for a while.,75,75,29,72.16666667,3.75,1.75
+105,1, ,101,7,100,100,100,0,0,0, , , , , , , , , ,100,100,100,100, , 
+105,1, ,103,7,100,100,100,0,0,0,2,1,4,1,5,1,5,5, ,100,100,100,100,4.75,1.25
+105,1, ,104,7,100,100,100,0,0,0,2,1,4,1,5,2,5,5, ,100,100,100,100,4.75,1.5
+105,1, ,105,7,100,100,100,0,0,0,2,1,5,1,5,1,5,5, ,100,100,100,100,5,1.25
+105,1, ,106,7,100,100,100,30,30,30,2,1,5,1,5,1,5,5, ,70,70,70,85,5,1.25
+149,1, ,103,1,90,90,100,20,10,10,1,1,4,2,4,2,4,4, ,80,90,90,90,4,1.5
+149,1, ,104,1,90,90,80,20,10,50,1,1,4,1,4,2,4,4, ,80,90,50,80,4,1.25
+106,1, ,100,7, , , , , , ,2,2,3,1,2,5,2,2, , , , , ,2.25,2.5
+106,1, ,101, ,100,90,100,70,100,40,3,2,3,1,2,5,2,2, ,30,0,60,63.33333333,2.25,2.75
+110,1, ,101,1,50,50,30,50,40,80,5,2,3,5,2,5,1,1,I loved everything about today and am looking forward to actually relaxing and not thinking about all the stress in my life. Thank you for your help and giving me a chance.,50,60,20,43.33333333,1.75,4.25
+110,1, ,102,4,41,30,50,40,0,0,3,3,4,4,2,4,2,2, ,60,100,100,63.5,2.5,3.5
+110,1, ,103,2,30,30,40,50,40,30,4,1,4,4,4,4,4,4, ,50,60,70,46.66666667,4,3.25
+110,1, ,104,1,50,50,100,81,10,80,5,3,5,5,3,3,3,3, ,19,90,20,54.83333333,3.5,4
+105,1, ,100,7, , , , , , ,1,1,4,1,5,1,4,4, , , , , ,4.25,1
+149,1, ,100,0, , , , , , ,1,1,5,3,3,2,4,5, , , , , ,4.25,1.75
+110,1, ,100,1, , , , , , ,5,2,3,5,2,5,1,1, , , , , ,1.75,4.25
+149,1, ,102,0,90,90,100,10,10,50,2,1,4,1,4,2,4,4, ,90,90,50,85,4,1.5
+149,1, ,101,0,92,82,84,80,10,80,1,1,5,3,3,2,4,5, ,20,90,20,64.66666667,4.25,1.75
+105,1, ,102,7,100,100,100,0,0,0,1,1,4,5,1,1,4,4, ,100,100,100,100,3.25,2
+111,1, ,301,1,90,91,91,81,85,97,3,1,4,3,3,3,5,5,I  enjoyed your calm voice and words. It was so great. I am glad I was able to join the class yesterday.,19,15,3,51.5,4.25,2.5
+147,2, ,201,1,71,84,85,27,12,79,1,1,4,2,4,2,3,4,"Thank you,  it was a nice workout and meditation we had today.",73,88,21,70.33333333,3.75,1.5
+138,2, ,201,6,79,69,88,13,15,78,2,1,4,2,3,4,4,4,Thanks Amy🙏,87,85,22,71.66666667,3.75,2.25
+136,2, ,201,1,62,76,75,71,81,83,3,1,4,2,3,2,5,4,👌,29,19,17,46.33333333,4,2
+128,2, ,201,4,98,97,97,0,0,18,2,1,4,1,3,2,4,4,It was a good session.,100,100,82,95.66666667,3.75,1.5
+107,2, ,201,1,82,100,80,0,0,81,2,2,3,1,3,1,4,3, ,100,100,19,80.16666667,3.25,1.5
+107,2, ,202,1,88,98,100,4,4,53,3,1,4,1,4,3,4,4, ,96,96,47,87.5,4,2
+128,2, ,202,0,96,97,97,6,4,12,1,1,4,1,4,2,4,4, ,94,96,88,94.66666667,4,1.25
+139,2, ,201,7,82,82,88,53,80,77,2,1,3,3,3,3,3,5,I have been practicing meditation and mindfulness for several years. Its a big part of my daily routine.,47,20,23,57,3.5,2.25
+129,2, ,201,5,35,41,75,26,26,76,2,1,4,1,5,2,4,4,liked the relaxing voice and inspiration quotes along with topics of interest,74,74,24,53.83333333,4.25,1.5
+107,2, ,203,1,99,56,96,27,8,89,4,3,4,2,4,2,4,4, ,73,92,11,71.16666667,4,2.75
+128,2, ,203,1,95,94,89,4,2,5,2,1,4,1,3,1,4,4, ,96,98,95,94.5,3.75,1.25
+129,2, ,202,4,29,71,73,18,64,68,2,1,4,1,3,3,4,4,I really enjoy the meditation. I sometimes catch myself wanting to turn off video in order to concentrate even more.,82,36,32,53.83333333,3.75,1.75
+139,2, ,202,7,63,66,46,100,85,89,4,3,2,5,2,4,3,3,Meditation is a very important tool to me. My struggles are deep and my anxiety is at an unhealthy level.,0,15,11,33.5,2.5,4
+129,2, ,203,5,71,73,89,26,62,70,2,1,4,1,3,1,4,4,Such a pleasant and fulfilling time that goes by way to fast,74,38,30,62.5,3.75,1.25
+139,2, ,203,7,40,39,86,34,22,24,3,2,4,3,2,2,3,3,My anxiety is always an issue when my osm unit informs me to check in. I find that being aware of my breathe does help me a little. Im diagnosed with service connected Chronic PTST and social anxiety.,66,78,76,64.16666667,3,2.5
+124,2, ,201,1,61,71,70,86,37,65,5,3,2,5,1,5,2,2,Hard for me to practice mindfulness due to extreme and ongoing anxiety,14,63,35,52.33333333,1.75,4.5
+139,2, ,204,7,69,68,64,32,63,66,3,2,4,2,3,2,4,4,This week I was able to test my social avoidance by camping with 15 or so sober friends. It was a good experience to be with people I've only had contact with at AA meetings. I was socially tested being isolated on an island. My mindfulness and meditation was a useful tool. My CBT factored in as well.,68,37,34,56.66666667,3.75,2.25
+129,2, ,204,4,18,65,67,24,57,66,1,1,4,1,4,2,4,4,Really liked sharing experiences of the topic,76,43,34,50.5,4,1.25
+139,2, ,205,7,61,72,81,34,39,43,3,2,3,3,3,3,4,4,I enjoyed the presentation on flow. Its interesting how we can act without hesitation and still be aware of danger.,66,61,57,66.33333333,3.5,2.75
+129,2, ,205,4,35,70,76,26,27,29,1,1,4,1,4,1,4,4,like the time for group interaction and imput,74,73,71,66.5,4,1
+139,2, ,206,7,66,66,79,22,21,14,3,2,4,2,4,2,3,4,Good session today. I enjoyed the sharing.,78,79,86,75.66666667,3.75,2.25
+139,2, ,207,7,61,74,72,47,67,62,4,3,2,5,3,4,2,2,"I've been going through some serious emotional experiences the last few weeks causing me very high anxiety and then leading to depression. I meditate often. Usually twice a day.
+It seems to help, but I'm struggling with letting go of certain resentments causing  me to lose focus in the now. I'm not really sure how to let go.",53,33,38,55.16666667,2.25,4
+139,2, ,208,7,65,74,28,56,69,60,4,2,3,3,2,3,3,2,I enjoyed the breathing exercise.,44,31,40,47,2.5,3
+129,2, ,206,5,56,77,74,64,25,75,1,1,4,1,3,2,3,4, ,36,75,25,57.16666667,3.5,1.25
+129,2, ,207,4,82,75,90,14,17,67,3,1,4,1,4,2,4,4,Enjoyed sharing thoughts on experiences this session brought to light.,86,83,33,74.83333333,4,1.75
+129,2, ,208,4,84,65,70,17,13,14,1,1,4,2,4,1,3,3, ,83,87,86,79.16666667,3.5,1.25
+139,2, ,209,7,29,62,80,95,64,87,5,5,4,4,2,5,2,3,I had a very challenging week. I used my mindfulness studies somewhat effectively. I did reach out to several people for guidance on how to handle my experience. it did result in hospital visit that could been avoidable. The issue is still unresolved but being dealt with through the proper channels,5,36,13,37.5,2.75,4.75
+129,2, ,209,4,78,84,76,19,19,61,1,1,4,1,3,2,4,4,This really touches home to many interactions with others and how I deal with those interactions.,81,81,39,73.16666667,3.75,1.25
+139,2, ,210,7,30,65,65,35,28,29,3,3,4,3,3,4,2,3,Had a better week than last. Still having avoidable anxiety from my new P.O.,65,72,71,61.33333333,3,3.25
+139,2, ,211,7,15,35,82,20,22,20,4,3,3,2,3,3,4,3,I experienced more anxiety this week dealing with my anonymity being compromised at an AA meeting. I was able to use my mindfulness studies to help cope. The result was positive and hopefully a fair experience for those involved.,80,78,80,61.66666667,3.25,3
+139,2, ,212,7,22,21,36,6,12,12,3,3,2,2,4,2,3,3,It was nice to learn how a routine can be healthy.,94,88,88,58.16666667,3,2.5
+129,2, ,210,3,81,77,84,13,10,28,1,1,4,1,4,4,4,4,Enjoy and look forward to these sessions,87,90,72,81.83333333,4,1.75
+139,2, ,213,7,31,33,77,28,20,20,2,1,3,2,4,2,3,3,Good session.,72,80,80,62.16666667,3.25,1.75
+129,2, ,211,7,44,69,76,24,17,17,2,1,4,1,3,2,4,4,enjoyed taking this time for just myself,76,83,83,71.83333333,3.75,1.5
+129,2, ,212,3,70,70,80,23,16,35,1,1,4,1,3,1,4,4, ,77,84,65,74.33333333,3.75,1
+139,2, ,214,7,17,45,60,29,9,17,3,2,3,4,2,3,2,2,Good session. Nice to be back.,71,91,83,61.16666667,2.25,3
+129,2, ,213,6,64,64,80,24,22,41,1,1,3,1,3,2,3,3,Very thought provoking.,76,78,59,70.16666667,3,1.25
+139,2, ,215,7,11,75,38,10,16,13,3,2,3,3,4,3,4,3,It's been a tough week with my medical issues. It's hard to accept the fact that I need to slow down to heal.,90,84,87,64.16666667,3.5,2.75
+129,2, ,214,3,77,77,87,21,34,33,2,1,4,1,3,2,4,4, ,79,66,67,75.5,3.75,1.5
+139,2, ,216,7,68,28,22,19,33,17,4,3,3,2,3,3,4,3,Its been a tough week. My emotions causing anxiety and stress.,81,67,83,58.16666667,3.25,3
+136,2, ,202,1,53,61,68,66,36,64,3,1,3,2,2,1,4,4,Hard to meditate with osm going off. Apparently I have the monitor for life now. It is having adverse effects on my life with no end in sight.,34,64,36,52.66666667,3.25,1.75
+136,2, ,203,1,63,68,55,22,36,22,3,2,4,2,2,1,4,4, ,78,64,78,67.66666667,3.5,2
+139,2, ,217,7,25,76,29,16,24,30,3,2,3,2,3,3,4,2,Great session,84,76,70,60,3,2.5
+129,2, ,215,6,73,67,70,28,32,26,1,1,4,1,5,2,4,4,enjoyed the sharing of group while out in nature and the how easy to relate to others comments in the gratitude theme.,72,68,74,70.66666667,4.25,1.25
+136,2, ,204,1,60,63,64,64,59,62,1,1,4,2,3,1,1,4, ,36,41,38,50.33333333,3,1.25
+136,2, ,205,1,64,43,78,47,62,51,3,3,4,2,3,1,4,4, ,53,38,49,54.16666667,3.75,2.25
+140,2, ,201,1,100,100,58,19,20,22,1,1,3,1,3,1,4,3, ,81,80,78,82.83333333,3.25,1
+129,2, ,216,4,59,64,82,31,33,31,3,1,4,1,3,3,3,4,Look forward to this time to focus on meditation,69,67,69,68.33333333,3.5,2
+139,2, ,218,7,19,24,31,24,19,21,3,1,4,2,4,2,4,3,Great to get back into the sessions. I really look forward to sharing and hearing from everyone.,76,81,79,51.66666667,3.75,2
+139,2, ,219,7,40,68,24,24,21,33,4,3,2,3,2,3,2,2,I had a rollercoaster week. Meditation helps.,76,79,67,59,2,3.25
+122,2, ,201,7,58,59,56,24,30,69,4,2,4,5,1,4,4,3, ,76,70,31,58.33333333,3,3.75
+129,2, ,217,6,71,71,57,91,90,82,4,1,2,4,1,2,1,1,Unfortunate death of friend had most of my attention,9,10,18,39.33333333,1.25,2.75
+139,2, ,220,7,17,30,31,75,30,69,4,3,2,3,3,3,4,2,I really enjoy sharing my feelings and the feedback they generate from the group.,25,70,31,34,2.75,3.25
+129,2, ,218,3,61,49,59,54,54,55,2,1,4,1,3,2,4,3,Circumstances change so much of my reactions and thought processes,46,46,45,51,3.5,1.5
+139,2, ,221,7,25,11,39,37,18,18,4,3,2,2,3,3,3,3,Another week of learning .,63,82,82,50.33333333,2.75,3
+139,2, ,222,7,35,41,69,28,16,40,3,3,2,2,4,3,4,3,Awesome session!,72,84,60,60.16666667,3.25,2.75
+129,2, ,219,3,69,72,60,23,24,30,1,1,4,2,3,1,3,4, ,77,76,70,70.66666667,3.5,1.25
+139,2, ,223,7,34,32,39,14,27,32,2,1,4,2,3,2,4,3,Another above average week.,86,73,68,55.33333333,3.5,1.75
+129,2, ,220,3,69,34,34,65,64,64,1,1,4,1,3,2,3,3, ,35,36,36,40.66666667,3.25,1.25
+121,2, ,201,2,82,84,82,79,24,78,1,1,3,1,3,2,4,4,I really enjoy the breathing exercises,21,76,22,61.16666667,3.5,1.25
+129,2, ,221,2,30,70,70,33,31,28,1,1,4,1,2,1,4,4, ,67,69,72,63,3.5,1
+139,2, ,224,7,34,66,68,21,21,24,2,1,3,2,3,2,3,3,I enjoy using the breathing technique. I use it regularly at bedtime. it helps me to fall asleep.,79,79,76,67,3,1.75
+121,2, ,202,3,69,28,87,14,16,47,2,1,4,1,4,2,4,4,"I thoroughly enjoy the meditation process, and after Mindfulness every week I feel like very positive and relaxed. Thank you so much!",86,84,53,67.83333333,4,1.5
+128,2, ,101,0,94,86,83,22,5,92,2,1,3,1,4,2,4,4, ,78,95,8,74,3.75,1.5
+128,2, ,102,1,96,100,90,4,3,90,2,1,4,1,4,1,4,4, ,96,97,10,81.5,4,1.25
+128,2, ,103,2,95,95,98,7,7,84,2,1,4,1,3,2,5,4, ,93,93,16,81.66666667,4,1.5
+128,2, ,104,2,96,97,96,3,3,45,2,1,4,1,3,1,3,4, ,97,97,55,89.66666667,3.5,1.25
+128,2, ,105,2,94,94,94,3,3,75,2,1,4,1,4,2,3,4, ,97,97,25,83.5,3.75,1.5
+128,2, ,106,3,97,97,97,3,1,14,1,1,4,1,3,2,4,4, ,97,99,86,95.5,3.75,1.25
+101,2, ,101,7,100,100,100,0,0,100,1,1,5,1,5,1,5,5, ,100,100,0,83.33333333,5,1
+101,2, ,102,8,100,100,100,0,0,0,1,1,5,1,5,1,5,5, ,100,100,100,100,5,1
+101,2, ,103,7,100,100,100,0,0,100,1,1,5,1,5,1,5,5, ,100,100,0,83.33333333,5,1
+136,2, ,101,3,80,80,70,40,0,30,1,1,4,2,3,2,4,4,I would like to be taller.,60,100,70,76.66666667,3.75,1.5
+136,2, ,102,2,70,70,80,30,10,20,2,1,4,2,3,1,3,4, ,70,90,80,76.66666667,3.5,1.5
+136,2, ,103,2,45,92,82,22,22,62,1,1,4,2,3,2,3,4, ,78,78,38,68.83333333,3.5,1.5
+136,2, ,104,1,35,65,65,15,23,32,2,2,4,1,3,1,3,4, ,85,77,68,65.83333333,3.5,1.5
+136,2, ,105,2,34,24,37,24,35,26,1,1,4,2,4,1,4,3, ,76,65,74,51.66666667,3.75,1.25
+136,2, ,106,2,24,15,53,17,6,6,1,1,4,2,5,2,5,4, ,83,94,94,60.5,4.5,1.5
+117,2, ,101,3,95,95,93,45,15,85,1,1,1,1,1,1,1,1, ,55,85,15,73,1,1
+117,2, ,102,4,45,65,66,15,34,25,1,1,4,1,4,1,5,5, ,85,66,75,67,4.5,1
+117,2, ,103,3,75,75,75,0,55,55,3,3,3,3,3,3,3,3, ,100,45,45,69.16666667,3,3
+138,2, ,101,7,50,50,80,0,0,100,3,3,3,3,3,4,3,3, ,100,100,0,63.33333333,3,3.25
+138,2, ,102,6,50,50,50,50,50,50,2,2,2,2,2,2,2,2, ,50,50,50,50,2,2
+138,2, ,103,5,70,70,70,20,20,20,3,3,3,3,3,3,3,3, ,80,80,80,75,3,3
+138,2, ,104,7,80,100,80,10,10,10,2,1,4,1,4,1,5,4, ,90,90,90,88.33333333,4.25,1.25
+138,2, ,105,7,90,20,80,10,10,10,1,1,4,1,4,3,4,5, ,90,90,90,76.66666667,4.25,1.5
+137,2, ,202,1,50,70,30,10,30,50, , , , , , , , , ,90,70,50,60, , 
+147,2, ,101,2,100,100,100,100,100,100,3,2,4,4,3,5,3,4, ,0,0,0,50,3.5,3.5
+147,2, ,102,2,60,100,80,40,50,50,1,1,4,1,5,1,5,4, ,60,50,50,66.66666667,4.5,1
+147,2, ,103,1,90,50,70,75,0,90,1,1,2,1,2,1,3,3,I like a bit more challenging positions. Like last time. The series I went to when you started,25,100,10,57.5,2.5,1
+147,2, ,104,2,100,100,100,100,0,70,2,2,3,4,4,1,3,4, ,0,100,30,71.66666667,3.5,2.25
+129,2, ,101,3,68,78,64,32,72,82, , , , , , , , , ,68,28,18,54, , 
+129,2, ,100,3, , , , , , ,2,1, ,1,4,3, ,4, , , , , , ,1.75
+137,2, ,201,1, , , , , , ,1,1,3,3,2,4,2,3, , , , , ,2.5,2.25
+128,2, ,100,0, , , , , , ,2,1,3,1,4,2,4,4, , , , , ,3.75,1.5
+101,2, ,100,7, , , , , , ,1,1,5,1,5,1,5,5, , , , , ,5,1
+136,2, ,100,3, , , , , , ,1,1,4,2,3,2,4,4, , , , , ,3.75,1.5
+117,2, ,100,3, , , , , , ,1,1,1,1,1,1,1,1, , , , , ,1,1
+138,2, ,100,3, , , , , , ,1,1,4,2,3,2,4,4, , , , , ,3.75,1.5
+137,2, ,100,1, , , , , , ,1,1,3,3,2,4,2,3, , , , , ,2.5,2.25
+137,2, ,101,1,51,70,30,10,30,50,1,1,3,4,4,4,3,4, ,90,70,50,60.16666667,3.5,2.5
+138,2, ,301,7,89,91,90,10,12,10,1,1,4,2,3,2,3,4,Thank You,90,88,90,89.66666667,3.5,1.5
+138,3, ,202,2,73,40,78,19,16,65,2,1,4,2,2,3,3,3,Thank you,81,84,35,65.16666667,3,2
+138,3, ,203,4,76,78,82,15,15,19,1,1,4,1,2,2,4,4,Thank you,85,85,81,81.16666667,3.5,1.25
+138,3, ,204,5,81,82,86,17,14,17,1,1,4,1,3,3,4,4,Thank you,83,86,83,83.5,3.75,1.5
+138,3, ,205,6,79,83,83,15,11,44,1,1,4,1,4,3,4,4,Thank you,85,89,56,79.16666667,4,1.5
+138,3, ,206,5,82,85,75,15,22,19,1,1,4,1,3,2,5,5,Thank You!!!,85,78,81,81,4.25,1.25
+138,3, ,207,6,75,80,80,16,21,20,1,1,4,2,3,3,3,4,Thank You,84,79,80,79.66666667,3.5,1.75
+138,3, ,208,5,79,82,83,21,22,22,1,1,4,1,3,2,3,3,Thank You,79,78,78,79.83333333,3.25,1.25
+138,3, ,209,7,80,80,84,17,17,12,2,1,5,2,3,2,3,3,Much appreciated,83,83,88,83,3.5,1.75
+138,3, ,210,5,78,82,80,12,11,34,1,1,4,2,3,3,3,3,thank you,88,89,66,80.5,3.25,1.75
+138,3, ,211,7,86,86,84,19,17,18,2,1,3,3,2,3,2,3,Thank You,81,83,82,83.66666667,2.5,2.25
+138,3, ,212,7,84,87,90,15,14,21,1,1,4,1,3,2,3,3,Thank you,85,86,79,85.16666667,3.25,1.25
+138,3, ,213,7,87,91,83,13,12,11,1,1,3,1,3,2,3,3,Thank you,87,88,89,87.5,3,1.25
+138,3, ,214,7,85,88,84,17,18,45,1,1,3,1,3,2,4,4,Thank you,83,82,55,79.5,3.5,1.25
+138,3, ,215,7,79,83,84,16,16,16,1,1,4,1,3,2,3,3,Thank you!,84,84,84,83,3.25,1.25
+138,3, ,216,7,79,80,81,21,25,32,2,1,3,1,3,2,4,4,Thank You,79,75,68,77,3.5,1.5
+138,3, ,217,7,80,81,81,16,15,17,1,1,3,1,3,2,3,3,Thank you,84,85,83,82.33333333,3,1.25
+138,3, ,218,7,88,89,86,7,11,16,2,1,4,1,3,2,3,3,Thank You,93,89,84,88.16666667,3.25,1.5
+138,3, ,219,7,79,82,79,12,14,17,1,1,4,2,2,3,3,3,Thank You,88,86,83,82.83333333,3,1.75
+138,3, ,220,7,84,83,81,11,21,19,1,1,4,1,4,2,4,4,thank you,89,79,81,82.83333333,4,1.25
+138,3, ,221,7,84,78,86,25,27,15,2,1,4,2,3,3,3,4,Thank You,75,73,85,80.16666667,3.5,2
+138,3, ,222,7,82,86,83,22,18,21,1,1,3,1,3,3,3,4,Thank You,78,82,79,81.66666667,3.25,1.5
+138,3, ,223,7,82,79,78,16,18,21,1,1,3,1,3,3,3,3,Thank You,84,82,79,80.66666667,3,1.5
+138,3, ,224,7,80,84,80,16,17,16,1,1,3,1,3,3,3,3,Thank You,84,83,84,82.5,3,1.5
+138,3, ,225,7,83,80,80,65,14,59,4,1,4,4,2,4,3,2,Thank You,35,86,41,67.5,2.75,3.25
+138,3, ,226,7,82,82,83,18,16,17,1,1,3,2,4,3,5,4,Thank You,82,84,83,82.66666667,4,1.75
+138,3, ,227,7,84,81,82,12,24,14,1,1,4,1,4,2,4,5,Thank You,88,76,86,82.83333333,4.25,1.25
+138,3, ,228,7,83,80,82,20,15,10,1,1,4,1,4,2,4,4,Thank You,80,85,90,83.33333333,4,1.25
+138,3, ,229,7,85,86,88,15,18,17,1,1,4,2,4,2,4,4,Thank You,85,82,83,84.83333333,4,1.5
+138,3, ,230,7,80,86,83,14,17,18,1,1,4,1,4,1,4,4,Thank You,86,83,82,83.33333333,4,1
+138,3, ,231,7,83,84,81,14,15,18,1,1,4,2,4,2,4,4,Thank You,86,85,82,83.5,4,1.5
+121,3, ,203,3,80,81,81,16,16,80,1,2,4,1,4,2,4,4,"Thank you for another great week, I feel centered and anxiety free!",84,84,20,71.66666667,4,1.5
+121,3, ,204,3,73,77,98,28,31,85,2,1,4,1,4,2,4,4,"Another great session, thank you for all that you do for us!",72,69,15,67.33333333,4,1.5
+138,3, ,232,7,80,81,82,19,15,21,1,1,4,1,3,4,4,4,Thank You,81,85,79,81.33333333,3.75,1.75
+139,3, ,225,7,43,61,64,55,36,43,3,2,3,1,3,2,3,3,Awesome session,45,64,57,55.66666667,3,2
+121,3, ,205,3,72,79,81,26,20,68,1,1,4,1,4,2,4,4,"Another great session, and thank you for the meditation.",74,80,32,69.66666667,4,1.25
+138,3, ,233,7,90,88,87,21,22,17,1,1,3,1,3,2,3,3,Thank You,79,78,83,84.16666667,3,1.25
+121,3, ,206,4,91,85,86,16,16,18,1,1,4,1,4,2,5,4,"Great session, great topic, and as always a good meditation!",84,84,82,85.33333333,4.25,1.25
+138,3, ,234,7,87,87,86,11,13,16,3,1,4,3,5,2,4,4,Thank You.,89,87,84,86.66666667,4.25,2.25
+138,3, ,235,7,88,87,87,16,16,16,1,1,4,1,4,1,4,4,Thank You,84,84,84,85.66666667,4,1
+121,3, ,207,3,74,79,82,21,24,18,2,2,4,1,4,3,5,5,Thank you for the class!,79,76,82,78.66666667,4.5,2
+138,3, ,236,7,80,83,83,16,14,19,1,1,4,1,4,2,4,4,Thank you,84,86,81,82.83333333,4,1.25
+121,3, ,208,3,82,84,85,12,18,30,3,2,4,1,5,2,5,5,"Thank you for the session, I truly enjoy meditating with you!",88,82,70,81.83333333,4.75,2
+138,3, ,237,7,84,81,78,3,5,9,1,1,4,1,4,2,4,4,Thank You,97,95,91,87.66666667,4,1.25
+138,3, ,238,7,79,81,82,13,14,15,1,1,4,1,4,2,4,4,Thank You,87,86,85,83.33333333,4,1.25
+121,3, ,209,3,75,70,71,25,19,22,2,2,4,1,4,2,4,5,Thank you for the session! It was very relaxing after a long day of work,75,81,78,75,4.25,1.75
+138,3, ,239,7,85,84,74,15,13,18,2,1,4,2,4,2,4,4,Thank You,85,87,82,82.83333333,4,1.75
+121,3, ,210,3,80,81,81,19,22,23,2,1,5,1,5,2,5,5,Thank you for the meditation!,81,78,77,79.66666667,5,1.5
+121,3, ,211,3,83,92,87,14,16,14,1,1,5,1,5,2,5,5,Thank you for another great meditation!,86,84,86,86.33333333,5,1.25
+138,3, ,240,7,80,89,83,10,8,10,1,1,4,2,3,2,3,4,Thank You,90,92,90,87.33333333,3.5,1.5
+121,3, ,212,3,83,83,100,19,19,22,1,2,5,1,5,2,5,5,Great session!,81,81,78,84.33333333,5,1.5
+121,3, ,213,4,87,90,83,10,8,12,1,1,5,1,5,2,5,5,Thank you for the session!,90,92,88,88.33333333,5,1.25
+138,3, ,241,7,89,89,87,10,11,11,1,1,4,1,4,1,4,4,Thank You,90,89,89,88.83333333,4,1
+138,3, ,242,7,90,90,90,10,13,20,1,1,4,1,3,2,4,4,Thank You!,90,87,80,87.83333333,3.75,1.25
+121,3, ,214,3,85,82,88,16,17,16,1,1,5,1,5,2,5,5,Thank you for the meditation!,84,83,84,84.33333333,5,1.25
+121,3, ,215,3,85,83,84,23,14,25,1,1,4,1,4,2,5,5,Thanks for the meditation!,77,86,75,81.66666667,4.5,1.25
+138,3, ,243,7,83,84,87,14,19,16,1,1,4,1,4,2,4,4,Thank You!,86,81,84,84.16666667,4,1.25
+121,3, ,216,3,80,87,88,16,17,23,1,1,4,1,5,2,5,5,Thank you for another great session!,84,83,77,83.16666667,4.75,1.25
+138,3, ,244,7,87,86,88,17,17,18,1,1,4,1,3,1,3,3,Thank You,83,83,82,84.83333333,3.25,1
+138,3, ,245,7,82,82,84,11,13,9,1,1,4,1,3,1,3,3,Thank you,89,87,91,85.83333333,3.25,1

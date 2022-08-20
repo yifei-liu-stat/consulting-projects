@@ -1,0 +1,147 @@
+var_name,full_name,
+record_id,Record ID,
+genderidentity,Please indicate your gender:,y
+genderidentitymisc,Please indicate your gender: A gender not listed above,
+raceethnic,Please indicate your racial/ethnic identity: (You may select more than one option.),y
+marital,"What is your current marital status?
+ (You may select more than one option.)",y
+maritalother,What is your current marital status? Other:,
+institution,Institution Name:,y
+degree,"What is your highest completed degree?
+ (You may select more than one option.)",y
+degreemisc,Degree: Other,
+years,How many years have you worked in your profession since completion of your highest degree of training?,y
+specialty,"What is your neurology focus or clinical specialty?
+(You may select more than one option.)",y
+specialtymisc,Specialty: Other,
+track,"Please indicate your current appointment:
+(You may select more than one option.)",y
+trackmisc,Track: Other,
+rank,Please indicate your current academic rank:,y
+rankmisc,Academic Rank: Other,
+yearsinrank,Please indicate the number entry of years spent in your current rank:,y
+leadership,"In your career as faculty, have you had any leadership title or role?",y
+leadernumber entry,"In your career as faculty, how many leadership positions have you held?",y
+incentiveleader,"What is the highest incentivized leadership position have you had?
+ (Incentives may be monetary, less clinic time, etc.)",y
+pub,"As faculty, on average, how many publications have you published per year in peer-reviewed journals over the last 5 years?",y
+author,How many publications were you first or last author?,y
+fund,"What is the total number entry of funded projects or studies to date?
+ (A funded project or study is defined as one for which you were a principal investigator (PI), co-PI, site PI, or co-investigator receiving salary support.)",y
+source,"Please select the types of funding sources for your projects or studies.
+(You may select more than one option.)",y
+sourceetc,Funding Sources: Other,
+amount,"What is the maximum funding for a single grant or funding source you have received as faculty? (in US dollars, including total cost (direct and indirect))",
+award,"As faculty, how many total awards have you received to date?",y
+levelaward,"At which level were the awards given?
+ (You may select more than one option.)",y
+levelawardetc,Level of awards: Other,
+guest,"As faculty, how many total times have you been invited as a guest speaker?
+ (A guest speaking engagement is defined as occurring outside your current department ex. grand rounds, workshop lead, panelist.)",y
+levelguest,"At which level were the guest speaking engagements given?
+(You may select more than one option.)",y
+levelguestetc,Level of guest speaking arrangements: Other,
+hours,Pre-COVID: How many hours per week on average did you work?,y
+employstat,Pre-COVID: What is your employment status?,y
+employstatother,Employment Status: Other,
+partfte,What is your part time FTE?,y
+compmodel,Are you content with your current compensation?,y
+noncontent,"Why are you not content with your current compensation?
+ (This question is not mandatory.)",
+comp,"What components does your current compensation include?
+(You may select more than one option.)",y
+op,"What operational incentive(s) do(es) your current compensation plan include?
+(You may select more than one option.)",y
+opother,What operational incentives does your current compensation plan include? Other:,
+activity,What is the distribution of your effort in the most recent academic year? (Allocated time is defined per your employment contract at your institution. Actual time is defined as effort that is actually dedicated to each task.),
+researchallocated,Research/scholarship (% Allocated Effort),y
+researchactual,Research/scholarship (% Actual Effort),y
+teachingallocated,Teaching (% Allocated Effort),y
+teachingactual,Teaching (% Actual Effort),y
+serviceallocated,Service (% Allocated Effort),y
+serviceactual,Service (% Actual Effort),y
+clinicalallocated,Clinical (% Allocated Effort),y
+clinicalactual,Clinical (% Actual Effort),y
+adminallocated,Administrative (% Allocated Effort),y
+adminactual,Administrative (% Actual Effort),y
+othermisc,Total Effort: Other,
+otherallocated,Other (% Allocated Effort),
+otheractual,Other (% Actual Effort),
+totalallocated,% Allocated Total,
+totalactual,% Actual Total,
+inpt,"From July 1, 2019 to June 30, 2020, how many weeks of inpatient service did you have?",y
+equity1,"I have dedicated career sponsorship. (Sponsorship is defined as one being put forward for opportunities, such as leadership roles, awards, or speaking engagements, by a sponsor.)",y
+equity2,Sponsorship has resulted in personal career advancement.,y
+equity3,"I have dedicated career mentorship. (Mentorship is defined as a positive role model who supports their mentee by, for example, giving advice, sharing resources, providing guidance.)",y
+equity4,Mentorship has resulted in personal career advancement.,y
+equity9,"At my current institution, there is gender diversity in leadership positions.",y
+equity5,My perception is that there is gender equity in pay at my current institution.,y
+equity6,Implicit gender bias has negatively impacted my career advancement.,y
+equity7,My current department has programs to enhance gender equity.,y
+equity8,Gender equity programs at my current institution are helpful.,y
+leave,"Have you ever taken parental leave (eg, maternity leave, paternity leave, adoption)?",y
+parentalcontent,Were you content with your parental leave time and support at your current and/or past institution?,y
+parentaluncontent,"Why were you not content with your parental leave time and support at your current and/or past institution?
+(You may select more than one option.)",y
+parentaluncontentmisc,Why were you not content with your parental leave time and support at your current and/or past institution? Other:,
+paidcurrent,How much total paid time did you take for parental leave at your current institution as a faculty member?,y
+paidcurrentmisc,How much total paid time did you take for parental leave at your current institution as a faculty member? Other:,
+paidpast,How much total paid time did you take for parental leave at your institution as a faculty member?,y
+paidpastmisc,How much total paid time did you take for parental leave at your past institution as a faculty member? Other:,
+unpaidcurrent,How much total unpaid time did you take for parental leave at your current institution as a faculty member?,y
+unpaidcurrentmisc,How much total unpaid time did you take for parental leave at your current institution as a faculty member? Other:,
+unpaidpast,How much total unpaid time did you take for parental leave at your institution as a faculty member?,y
+unpaidpastmisc,How much total unpaid time did you take for parental leave at your past institution as a faculty member? Other:,
+feed,Did you breastfeed/pump at work when you had your child(ren)?,y
+totalfeeding,"On average, how many total number of month have you dedicated to breastfeeding/pumping per child as a faculty member?",y
+morefed,How many more months longer would you have breastfed/pumped per child?,y
+breastfeeding1,There was adequate time for lactation.,y
+breastfeeding2,Clinical time was blocked for lactation.,y
+breastfeeding3,There was flexibility in work schedule for lactation.,y
+breastfeeding4,There was a designated space for private lactation.,y
+breastfeeding5,RVU expectation was adjusted for lactation time.,y
+breastfeeding6,Lactation time was paid.,y
+breastfeeding7,I felt supported in my lactation effort by my employer.,y
+breastfeeding8,I felt supported in my lactation effort by co-workers.,y
+breastfeeding9,"Overall, I felt satisfied with the lactation experience as a working mom.",y
+household,What is the total number of people in your household?,y
+wage,Are you the primary wage earner for your household?,y
+partneremploy,Is your spouse/partner employed? ,y
+dep,Do you provide dependent care for the following: (You may select more than one option.),y
+dependents,"What is the total number of dependents (eg, children, elderly parent, siblings, differently abled person) you have?",y
+childrenage,What is/are the age(s) of your child(ren)? (You may select more than one option.),y
+childcaretime,Pre-COVID: How many hours per week did you spend on childcare?,y
+dom,"Pre-COVID: How many hours per week did you spend on domestic tasks (eg, cleaning, laundry, cooking, lawn care)? This does not include childcare.",y
+out,"Pre-COVID: How many hours per week did you outsource domestic tasks (eg, cleaning, laundry, cooking, lawn care)? This does not include childcare. ",y
+off,Pre-COVID: How many days per year do you take off for dependent/child care?,y
+back,"Pre-COVID: Does your institution provide backup dependent care (eg, sick days, school/daycare closure) to avoid cancelling clinics?",y
+famworkconflict1,The demands of my family and/or spouse/partner interfere with my work-related activities.,y
+famworkconflict2,I have to put off doing things at work because of the demands on my time at home.,y
+famworkconflict3,Things I want to do at work do not get done because of the demands of my family and/or spouse/partner.,y
+famworkconflict4,"My home life interferes with my responsibilities at work such as getting to work on time, accomplishing daily tasks, and working overtime.",y
+famworkconflict5,Family-related strain interferes with my ability to perform job-related duties.,y
+famworkconflict6,Domestic responsibilities are shared equally with spouse/partner.,y
+cov1,Taking care of children when they are sick at home,y
+cov2,Taking days off from work when children are sick,y
+cov3,"Handling chores related to childcare (eg, laundry, cooking, cleaning)",y
+cov4,Managing children's activities and schedule,y
+cov5,Playing or doing activities with children,y
+workinterf,Does your work/career interfere with your personal life?,y
+workinterfetc,In what ways does your work/career interfere with your personal life?,
+burnoutopt,Are you interested in answering questions on burnout?,y
+whyburnopt,Why are you not interested in answering questions on burnout?,y
+rushed,"In general, how do you feel about your time? Would you say that you feel rushed?",y
+burnout,"Pre-COVID: Overall, based on your definition of burnout, how would you rate your level of burnout?",y
+burn1,I deal very effectively with the problems of my patients.,y
+burn2,I feel I treat some patients as if they were impersonal objects.,y
+burn3,I feel emotionally drained from my work.,y
+burn4,I feel fatigued when I get up in the morning and have to face another day on the job.,y
+burn5,I've become more callous towards people since I took this job.,y
+burn6,I feel I'm positively influencing other people's lives through my work.,y
+burn7,Working with people all day is really a strain for me.,y
+burn8,I don't really care what happens to some patients.,y
+burn9,I feel exhilarated after working closely with my patients.,y
+factors,"What other factors may have impacted your career advancement, if they were not discussed in this survey?",
+comments,"Please let us know if you have additional comments, suggestions, or concerns. Thank you for your input!",
+future,Would you like to participate in future gender equity surveys?,y
+contact,"Please click on this link to provide your contact information and the extent of your interest in future gender equity surveys. These two links are not associated, so your anonymity will be protected.",
